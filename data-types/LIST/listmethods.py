@@ -46,6 +46,33 @@ print(r)
 #index()
 i = [1,2,3,4,5,2]
 # print(i.index(1))
-print(i.index(1,2))
+# print(i.index(1,2))
 #count()
 print(i.count(20))#check element kitni baar a rha hai
+
+#reverse 
+re = ['java','python',1,2,3,4]
+print(re.reverse())
+print(re)
+
+#sort()
+# s = ['java','python',1,2,3,4]
+s = ['python','java','php']
+s.sort()
+# s.reverse()
+s.sort(reverse=True)
+print(s)
+ 
+
+#copy
+co = [2,3,4,6,7,"python"]
+co2 = co.copy()
+print(id(co),id(co2))
+
+
+#clear()
+co.clear()
+print(co)
+
+del co
+print(co)

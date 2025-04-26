@@ -1,3 +1,4 @@
-
-# l = [1,2,3,4,"ashu"]
-# print(len(l))
+))
+# print(p)
+# print(p.pop(0))
+# print(p)
