@@ -1,7 +1,7 @@
 # list methods
 #1. append() -> add single element in last position
 #2. extend() -> add multiple element in last position
-#3. insert() -> add single element in last position
+#3. insert() -> add element targeted position
 #4. pop()    -> remove last element from list
 #5. remove() -> remove targeted element from the list
 #6. copy() -> create new object with same element
