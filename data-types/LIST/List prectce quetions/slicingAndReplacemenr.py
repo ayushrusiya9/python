@@ -7,4 +7,5 @@
 letters = ['a','b','c','d','e','f']
 print(letters[0:3:1])
 print(letters[4:6:1])
-letters.
+letters[2:3] = ['x','y']
+print(letters)
