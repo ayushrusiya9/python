@@ -34,7 +34,6 @@ print(t.index(3))
 t = (1,2,3,4,"python")
 print(t.count("jva"))
 
-
 #getsizeof 
 import sys
 
