@@ -12,3 +12,11 @@ t = (1, (2, 3), (4, (5, 6)))
 
 
 print(t[2][1][0])
+
+print(ord(' '))
+print(ord('A'))
+print(ord('Z'))
+print(ord('a'))
+print(ord('z'))
+print(ord('0'))
+print(ord('9'))
