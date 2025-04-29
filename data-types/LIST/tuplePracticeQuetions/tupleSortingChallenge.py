@@ -3,7 +3,12 @@
 l = [(1, 3), (2, 2), (3, 1)]
 
 l = [l[2], l[1], l[0]]
-print(l) 
+# print(l) 
 
 
-#
+# From the tuple (1, (2,3), (4,(5,6))), access the number 5. 
+
+t = (1, (2, 3), (4, (5, 6)))
+
+
+print(t[2][1][0])
