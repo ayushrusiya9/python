@@ -6,7 +6,7 @@ student = {'name': "Aashu", 'age': 22, 'city': 'Bhopal'}
 print(student['city'])
 
 #Update the value of 'age' to 23.
-s = {'age': 23}
+s = {'age': 25}
 student.update(s)
 print(student)
 
