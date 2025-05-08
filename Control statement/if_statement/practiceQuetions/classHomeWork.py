@@ -28,4 +28,4 @@ elif type(val) == type(set()) :
 elif type(val) == type(dict()) :
     print(f"Given value {val} is dictionary.")
 else :
-    print(f"Given program is not run!")
+    print(f"Given program will not run!")
