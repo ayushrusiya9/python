@@ -6,9 +6,5 @@ while i <= n:
         print(i, end=",")
     else :
         print(i)
-    # if n % 2 == 0 :
-    #     print(i, end=",")
-    # else :
-    #     print(i)    
 
     i = i + 2    
