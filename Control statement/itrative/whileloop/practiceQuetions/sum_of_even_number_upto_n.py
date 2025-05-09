@@ -1,4 +1,4 @@
-#sum of even number
+#sum of even number upto n natural
 
 n = int(input("Enter number: "))
 
@@ -16,4 +16,4 @@ while i <= n:
 
     i = i + 1
 
-print(sum)      
+print(sum)

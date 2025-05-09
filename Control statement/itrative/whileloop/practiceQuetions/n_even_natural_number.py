@@ -6,7 +6,7 @@ i = 1
 num = 2
 while i <= n:
     
-    if i < (n - 1):
+    if i < n:
         print(num, end=',')
     else:
         print(num)    
