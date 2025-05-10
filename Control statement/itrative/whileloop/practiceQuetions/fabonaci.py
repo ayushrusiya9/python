@@ -10,4 +10,4 @@ while i <= n :
         print(z, end=",")
     else:
         print(z)    
-    i = i + 1   
+    i = i + 1 
