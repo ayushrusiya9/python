@@ -11,6 +11,8 @@
 # print(x)
 # print(x)
 # print(hello())
+
+ 
 def naturalNumber(n):
     sum = 0
 
