@@ -7,6 +7,7 @@ from functools import reduce # using pattern
 # reduce(func_name, collection)
 
 
+
 # def max_n0(x,y):
 #     if x > y:
 #         return x
