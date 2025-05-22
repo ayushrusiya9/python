@@ -1,3 +1,4 @@
+#map(function, iterable) -> sytex
 def add5(n):
     return n + 5
 
