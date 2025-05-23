@@ -9,7 +9,6 @@ class Student:
         print(self.n,self.c,self.school,self.p)#access inside constructer
 
 
-
 obj = Student('ayush','Bhopal') 
 # obj.add(1232)
 # print(obj.n,obj.c,obj.school,obj.p)
