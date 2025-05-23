@@ -4,7 +4,8 @@ class student:
         self.n = name
         print(gread)
     def new(self):
-        print(gread)
+        # print(gread)
+        
 
 obj = student('ayush')
 obj.new()
