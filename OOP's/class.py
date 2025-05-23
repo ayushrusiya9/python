@@ -8,7 +8,7 @@ class First:
 # obj = First
 obj = First()
 print(id(obj))
-# print(dir(First))
+# print(dir(First)) 
 # print(First.__doc__)
 # print(id(First))
 # obj = First

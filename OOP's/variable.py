@@ -16,4 +16,5 @@ obj = Student('ayush','Bhopal')
 obj.school = 'shhs' #out-side of the class(decleration)
 # print(obj.n,obj.c,obj.school,obj.p)
 obj.add(1232)
+
 print(obj.n,obj.c,obj.school,obj.p)
