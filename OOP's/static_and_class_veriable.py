@@ -1,5 +1,5 @@
 class Sudent:
-    school = "shhss"  # declaration inside class body
+    school = "shhss"  # declaration inside class body 
 
     def __init__(self, name):  # constructor needs a 'name' argument
         self.n = name
