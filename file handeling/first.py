@@ -1,0 +1,7 @@
+f = open('n2.txt','a')
+print(f.name)
+print(f.mode)
+print(f.readable())
+print(f.writable())
+print(f.encoding)
+print(f.closed)
