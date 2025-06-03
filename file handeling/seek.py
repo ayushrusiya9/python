@@ -1,0 +1,11 @@
+f = open('n1.py','rb')
+
+print(f.tell())
+data = f.read(10)
+print(f.tell())
+print(data)
+# f.seek(5,1)
+f.seek(-5,2)
+print(f.tell())
+data = f.read(5)
+print(data)
