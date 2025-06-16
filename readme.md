@@ -17,7 +17,5 @@ Each folder includes working code examples, exercises, and mini-practice project
 - 🗂️ Modules and Imports
 - 🔍 Practice Problems and Mini Apps
 
----
 
-## 📁 Folder Structure
-
+----
