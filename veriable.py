@@ -20,7 +20,7 @@ b = tuple()
 c = dict()
 d = str()
 
-print(x)
+print(x,type(x))
 print(y)
 print(z)
 print(a)
