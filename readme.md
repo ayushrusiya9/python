@@ -18,4 +18,4 @@ Each folder includes working code examples, exercises, and mini-practice project
 - 🔍 Practice Problems and Mini Apps
 
 
-----
+--------
