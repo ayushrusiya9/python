@@ -17,7 +17,7 @@
 # print(s3*s2)
 
 # s1 = "ayus"
-# s2 = 2
+# s2 = 2 =  nbjsdn
 # print(s1 * s2)
 
 
