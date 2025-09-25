@@ -1,4 +1,4 @@
-# import functools # most imp because reduce functool ke ander liha hai
+# import functools # most imp because reduce functool ke ander likha hai
 # 1st way functools.reduce(fun_name, collection)
 
 
