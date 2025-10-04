@@ -12,7 +12,7 @@
 # print(h)
 
 # from first import Student
-from first import Student as stu #aliaci method
+from first import Student as stu #alias method
 
 # obj = Student()
 obj = stu()
