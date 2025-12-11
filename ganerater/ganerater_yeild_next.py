@@ -14,5 +14,6 @@ x = natural(n)
 print(type(x))
 print(next(x))
 print("hello")
+print("hello")
 
 print(next(x))
