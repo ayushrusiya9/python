@@ -15,5 +15,6 @@ print(id(obj))
 # obj1 = First()
 # print(id(obj))
 # print(id(obj1))
+print(id(obj1))
 
 # print(First is obj)
