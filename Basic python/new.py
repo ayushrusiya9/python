@@ -1,8 +1,7 @@
 # import keyword 
 
-# all_keywords = keyword.kwlist
-# print(all_keywords)
-# print(len(all_keywords))
+all_keywords =.keyword.kwlistprint(all_keywords)
+print(len(all_keywords))
 
 import string
 
